@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jsp-servlet-jdbc-mysql-tutorial" />
+        <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       </profile>
     </annotationProcessing>
   </component>
