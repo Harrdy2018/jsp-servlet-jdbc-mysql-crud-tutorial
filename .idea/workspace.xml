@@ -10,11 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/functionalinterface/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/functionalinterface/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/functionalinterface/SupplierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/iteratoroverlist/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/iteratoroverlist/DifferentWaysToIterateSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,15 +67,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.DifferentWaystoIterateOverList">
-    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.functionalinterface.ConsumerExample" />
+  <component name="RunManager" selected="Application.CopyOnWriteArrayListExample">
+    <configuration name="CopyListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.collections.CopyListExamples" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.functionalinterface.*" />
+          <option name="PATTERN" value="net.javaguides.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,21 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.functionalinterface.CustomFunctionalInterface" />
-      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.javaguides.functionalinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DifferentWaystoIterateOverList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.iteratoroverlist.DifferentWaystoIterateOverList" />
+    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.iteratoroverlist.CopyOnWriteArrayListExample" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.functionalinterface.PredicateExample" />
+    <configuration name="DifferentWaysToIterateSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.iteratoroverlist.DifferentWaysToIterateSet" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.functionalinterface.*" />
+          <option name="PATTERN" value="net.javaguides.iteratoroverlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.functionalinterface.SupplierExample" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lukang.Hello" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.functionalinterface.*" />
+          <option name="PATTERN" value="com.lukang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterateHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.iteratoroverlist.IterateHashMapExample" />
+      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.javaguides.iteratoroverlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,20 +224,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.IterateHashMapExample" />
+      <item itemvalue="Application.CopyListExamples" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
-      <item itemvalue="Application.CustomFunctionalInterface" />
-      <item itemvalue="Application.PredicateExample" />
-      <item itemvalue="Application.SupplierExample" />
-      <item itemvalue="Application.ConsumerExample" />
-      <item itemvalue="Application.DifferentWaystoIterateOverList" />
+      <item itemvalue="Application.DifferentWaysToIterateSet" />
+      <item itemvalue="Application.CopyOnWriteArrayListExample" />
+      <item itemvalue="Application.Hello" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DifferentWaystoIterateOverList" />
-        <item itemvalue="Application.ConsumerExample" />
-        <item itemvalue="Application.SupplierExample" />
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.CustomFunctionalInterface" />
+        <item itemvalue="Application.CopyOnWriteArrayListExample" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.DifferentWaysToIterateSet" />
+        <item itemvalue="Application.CopyListExamples" />
+        <item itemvalue="Application.IterateHashMapExample" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +250,10 @@
       <option name="presentableId" value="Default" />
       <updated>1635778374639</updated>
       <workItem from="1635778376789" duration="5416000" />
-      <workItem from="1635863187335" duration="7042000" />
+      <workItem from="1635863187335" duration="7648000" />
+      <workItem from="1635942898379" duration="15000" />
+      <workItem from="1635942927261" duration="11209000" />
+      <workItem from="1636033732988" duration="5134000" />
     </task>
     <servers />
   </component>
@@ -270,5 +271,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
