@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/datetime/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/lambda/LambdaExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +72,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Example1">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.datetime.Example1" />
+  <component name="RunManager" selected="Application.Example1 (1)">
+    <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.Fastjson.Example1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.datetime.*" />
+          <option name="PATTERN" value="net.javaguides.Fastjson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.stream.Example6" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.datetime.Example1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.stream.*" />
+          <option name="PATTERN" value="net.javaguides.datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,19 +227,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
-      <item itemvalue="Application.Example6" />
       <item itemvalue="Application.Example7" />
       <item itemvalue="Application.Hello" />
       <item itemvalue="Application.LambdaExample6" />
       <item itemvalue="Application.Example1" />
+      <item itemvalue="Application.Example1 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1 (1)" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.LambdaExample6" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +257,7 @@
       <workItem from="1635942927261" duration="11209000" />
       <workItem from="1636033732988" duration="6169000" />
       <workItem from="1636115752116" duration="30000" />
-      <workItem from="1638684457350" duration="20718000" />
+      <workItem from="1638684457350" duration="22904000" />
     </task>
     <servers />
   </component>
