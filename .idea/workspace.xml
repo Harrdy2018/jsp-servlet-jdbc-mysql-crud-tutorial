@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/CreateStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/datetime/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/lambda/LambdaExample6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,41 +68,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Servlet-SE" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Example7">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.stream.Example3" />
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.datetime.Example1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.stream.Example4" />
-      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.javaguides.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.stream.Example5" />
-      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.javaguides.stream.*" />
+          <option name="PATTERN" value="net.javaguides.datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,6 +103,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="net.javaguides.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lukang.Hello" />
+      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lukang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExample6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.lambda.LambdaExample6" />
+      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.javaguides.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,19 +225,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
-      <item itemvalue="Application.Example3" />
-      <item itemvalue="Application.Example4" />
-      <item itemvalue="Application.Example5" />
       <item itemvalue="Application.Example6" />
       <item itemvalue="Application.Example7" />
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.LambdaExample6" />
+      <item itemvalue="Application.Example1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.LambdaExample6" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +255,7 @@
       <workItem from="1635942927261" duration="11209000" />
       <workItem from="1636033732988" duration="6169000" />
       <workItem from="1636115752116" duration="30000" />
-      <workItem from="1638684457350" duration="15615000" />
+      <workItem from="1638684457350" duration="20718000" />
     </task>
     <servers />
   </component>
