@@ -10,11 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Fastjson/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/ConstantClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/ConstantClassFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/ConstantEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/ConstantFinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/ConstantInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/Constant/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -72,7 +76,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Example1 (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.javaguides.Fastjson.Example1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
@@ -99,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.stream.Example7" />
-      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.javaguides.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lukang.Hello" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
@@ -131,6 +122,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="net.javaguides.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.Constant.Test" />
+      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.javaguides.Constant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,20 +230,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
-      <item itemvalue="Application.Example7" />
       <item itemvalue="Application.Hello" />
       <item itemvalue="Application.LambdaExample6" />
       <item itemvalue="Application.Example1" />
       <item itemvalue="Application.Example1 (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="Application.Example1 (1)" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.LambdaExample6" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Example7" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +261,8 @@
       <workItem from="1635942927261" duration="11209000" />
       <workItem from="1636033732988" duration="6169000" />
       <workItem from="1636115752116" duration="30000" />
-      <workItem from="1638684457350" duration="22904000" />
+      <workItem from="1638684457350" duration="23009000" />
+      <workItem from="1638806927042" duration="2092000" />
     </task>
     <servers />
   </component>
