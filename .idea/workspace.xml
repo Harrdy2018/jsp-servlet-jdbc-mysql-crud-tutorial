@@ -10,7 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/BaseMethods/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/conf.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +78,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Example2">
-    <configuration name="Example1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.reference.Example1" />
+  <component name="RunManager" selected="Application.Example6">
+    <configuration name="Example2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example2" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.reference.*" />
+          <option name="PATTERN" value="net.javaguides.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.BaseMethods.Example1" />
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example3" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.BaseMethods.*" />
+          <option name="PATTERN" value="net.javaguides.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.BaseMethods.Example2" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example4" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.BaseMethods.*" />
+          <option name="PATTERN" value="net.javaguides.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lukang.Test" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example5" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lukang.*" />
+          <option name="PATTERN" value="net.javaguides.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.Constant.Test" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example6" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.Constant.*" />
+          <option name="PATTERN" value="net.javaguides.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,20 +232,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Example1 (2)" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="Application.Example2" />
+      <item itemvalue="Application.Example2 (1)" />
+      <item itemvalue="Application.Example3" />
+      <item itemvalue="Application.Example4" />
+      <item itemvalue="Application.Example5" />
+      <item itemvalue="Application.Example6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Example1 (2)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +270,8 @@
       <workItem from="1638973527494" duration="622000" />
       <workItem from="1638974183833" duration="6959000" />
       <workItem from="1639065251007" duration="1627000" />
-      <workItem from="1639280043387" duration="4273000" />
+      <workItem from="1639280043387" duration="7590000" />
+      <workItem from="1639407820639" duration="5142000" />
     </task>
     <servers />
   </component>
@@ -289,6 +297,11 @@
           <properties class="java.util.ConcurrentModificationException" package="java.util" />
           <option name="timeStamp" value="4" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
