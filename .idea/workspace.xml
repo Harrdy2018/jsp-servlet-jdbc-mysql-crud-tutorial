@@ -10,15 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/conf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/reflect/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Example6">
+  <component name="RunManager" selected="Application.Example3">
     <configuration name="Example2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.javaguides.reflect.Example2" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
@@ -241,10 +236,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example6" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2 (1)" />
       </list>
     </recent_temporary>
@@ -271,7 +266,7 @@
       <workItem from="1638974183833" duration="6959000" />
       <workItem from="1639065251007" duration="1627000" />
       <workItem from="1639280043387" duration="7590000" />
-      <workItem from="1639407820639" duration="5142000" />
+      <workItem from="1639407820639" duration="5557000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,7 @@ import java.lang.reflect.Field;
 public class Example3 {
     public static void main(String[] args) throws Exception{
         Class clazz=Class.forName("net.javaguides.reflect.Student");
-        System.out.println("获取所有公有的字段");
+        System.out.println("只能获取公有的字段，可以来自继承");
         Field fields[] = clazz.getFields();
         for(Field f : fields){
             System.out.println(f);
