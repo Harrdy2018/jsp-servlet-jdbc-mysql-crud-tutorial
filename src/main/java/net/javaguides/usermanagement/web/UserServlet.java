@@ -15,20 +15,23 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-@WebServlet(name="UserSerlet",urlPatterns = "/")
+@WebServlet(name="User", urlPatterns = "/")
 public class UserServlet extends HttpServlet {
     private static final long serialVersionUID=1L;
     private UserDAO userDAO;
 
+    @Override
     public void init(){
         userDAO=new UserDAO();
     }
 
+    @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("post request "+request.getServletPath());
         doGet(request,response);
     }
 
+    @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String action=request.getServletPath();
         System.out.println("get request "+action);

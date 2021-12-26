@@ -10,4 +10,10 @@
     <exception-type>java.lang.Exception</exception-type>
     <location>/WEB-INF/Error.jsp</location>
   </error-page>
+
+  <!-- @WebListener 注解替代
+  <listener>
+    <listener-class>net.javaguides.usermanagement.listener.ServletContextTest</listener-class>
+  </listener>
+  -->
 </web-app>
