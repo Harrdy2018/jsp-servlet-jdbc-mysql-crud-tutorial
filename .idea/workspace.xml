@@ -10,16 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735a5234-0c16-460d-9cb2-d451579a0b32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/filter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/listener/HttpSessionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/listener/ServletContextAttributeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/listener/ServletContextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/listener/ServletRequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/web/TestFilterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/web/TestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Http/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/LearnHttpClient/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/LearnHttpClient/OriginApiExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/web/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/web/UserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/user-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/user-list.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +76,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.54">
-    <configuration name="Example1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.Annotation.Example1" />
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lukang.Child" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.Annotation.*" />
+          <option name="PATTERN" value="com.lukang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.interview.Example3" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.LearnHttpClient.Example1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.interview.*" />
+          <option name="PATTERN" value="net.javaguides.LearnHttpClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.interview.Example4" />
+    <configuration name="OriginApiExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.javaguides.LearnHttpClient.OriginApiExample1" />
       <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.javaguides.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.javaguides.functionalinterface.FunctionExample" />
-      <module name="jsp-servlet-jdbc-mysql-crud-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.javaguides.functionalinterface.*" />
+          <option name="PATTERN" value="net.javaguides.LearnHttpClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,6 +130,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/Http/test.http" runType="Run single request">
+      <method v="2" />
     </configuration>
     <configuration name="Tomcat 9.0.54" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.54" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -236,20 +222,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example3 (1)" />
-      <item itemvalue="Application.Example4" />
-      <item itemvalue="Application.Example1 (1)" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.FunctionExample" />
+      <item itemvalue="Application.Example1" />
+      <item itemvalue="Application.OriginApiExample1" />
+      <item itemvalue="Application.Child" />
+      <item itemvalue="HTTP Request.test#1" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.54" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OriginApiExample1" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="HTTP Request.test#1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.Example1 (1)" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +268,11 @@
       <workItem from="1640098213683" duration="4305000" />
       <workItem from="1640182935814" duration="53000" />
       <workItem from="1640357282053" duration="2030000" />
-      <workItem from="1640525194010" duration="10925000" />
+      <workItem from="1640525194010" duration="11133000" />
+      <workItem from="1640619817074" duration="2730000" />
+      <workItem from="1640702983614" duration="4546000" />
+      <workItem from="1640792252723" duration="3346000" />
+      <workItem from="1640877076489" duration="1318000" />
     </task>
     <servers />
   </component>
@@ -313,7 +303,26 @@
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/javaguides/usermanagement/web/QueryServlet.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/javaguides/LearnHttpClient/Example1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LocalTest/com/lukang/Child.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

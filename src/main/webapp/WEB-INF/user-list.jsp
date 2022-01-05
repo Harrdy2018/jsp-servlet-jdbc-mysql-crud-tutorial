@@ -69,5 +69,12 @@
         </table>
     </div>
 </div>
+
+<div>
+    <form action="test/query" method="post">
+        name:<input type="text" name="name">
+        <button type="submit">subit</button>
+    </form>
+</div>
 </body>
 </html>
