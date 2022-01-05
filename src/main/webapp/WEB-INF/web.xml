@@ -16,4 +16,13 @@
     <listener-class>net.javaguides.usermanagement.listener.ServletContextTest</listener-class>
   </listener>
   -->
+
+  <!--
+    <servlet-name>default</servlet-name>作用
+    对客户端请求的静态资源如图片、JS文件等的请求交由默认的servlet进行处理
+  -->
+  <servlet-mapping>
+    <servlet-name>default</servlet-name>
+    <url-pattern>/example1.html</url-pattern>
+  </servlet-mapping>
 </web-app>
