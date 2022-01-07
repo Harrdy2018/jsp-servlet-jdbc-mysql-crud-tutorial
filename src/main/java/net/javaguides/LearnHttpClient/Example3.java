@@ -10,6 +10,10 @@ import org.apache.http.util.EntityUtils;
 import java.io.FileOutputStream;
 import java.io.IOException;
 // 根据链接下载图片并保存到本地
+// vim 查看二进制文件
+// vim -b test.png
+// 转化为16进制 :%!xxd
+// 取消转化 :%!xxd -r
 public class Example3 {
     public static void main(String[] args) {
         CloseableHttpClient client = HttpClients.createDefault();
